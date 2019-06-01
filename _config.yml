@@ -1,0 +1,30 @@
+# Site settings
+title: IceGem Beauty
+email: hello@icegembeauty.com
+formspree_token: xbpqjzax # Either form token or email address
+url: https://www.icegembeauty.com
+domain: www.icegembeauty.com
+description: "South Manchestet Beauty Therapy."
+ga: UA-97468235-1
+lightwidget: fcd8c2e8562f5c0086ca9a8ffa0118b8
+iguser: icegembeauty
+mapsurl: https://www.google.co.uk/maps/place/Samantha+Beedie+Tattooist/@53.472162,-2.241171,15z/data=!4m5!3m4!1s0x0:0x3cb9be6e979cda5e!8m2!3d53.472162!4d-2.241171
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-bg: '#F9F9F7'
+  panel-bg: '#F9F9F7'
+  links: '#E69500'
+  text: '#333333'
+
+# Footer settings
+footer: IceGem Beauty
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: https://instagram.com/icegembeauty/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
