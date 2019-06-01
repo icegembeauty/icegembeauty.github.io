@@ -35,7 +35,7 @@
                         <div class="help-block with-errors"></div>
                         <input type="hidden" name="_subject" value="Website contact form" />
                         <input type="text" name="_gotcha" style="display:none" />
-                        <input type="hidden" name="_next" value="/{{ site.domain }}/thanks" />
+                        <input type="hidden" name="_next" value="//{{ site.domain }}/thanks" />
                         <button type="submit" class="btn btn-default btn-lg"
                           onClick="ga('send', 'event', 'Interaction Points', 'Click', 'Contact Button'); this.form.action='https://formspree.io/{{ site.formspree_token }}';">
                             <i class="fa fa-paper-plane" aria-hidden="true"></i> <span class="network-name">Send</span></button>
