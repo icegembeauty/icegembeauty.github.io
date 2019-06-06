@@ -13,7 +13,7 @@ mapsurl: https://www.google.com/maps/place/IceGem+Beauty/@53.417517,-2.3224037,1
 color:
   primary-bg: '#F9F9F7'
   panel-bg: '#F9F9F7'
-  links: '#E69500'
+  links: '#dd9096'
   text: '#333333'
 
 # Footer settings
